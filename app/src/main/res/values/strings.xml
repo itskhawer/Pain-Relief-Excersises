@@ -1,0 +1,197 @@
+<resources>
+    <string name="app_name">Pain Relief Exercises</string>
+    <string name="note">This app is not a medical professional, but it can provide general information on exercises to get relief from your pain. Consult a healthcare professional before starting any new exercise program, especially with pre-existing health conditions, for personalized advice.</string>
+    <string name="reps_note"> Generally, for each exercise, you can start with 8–12 repetitions (reps) and gradually increase as you become more comfortable. It is important to listen to your body, and if you experience any pain or discomfort, you should stop the exercise.</string>
+    <string name="pelvic_tilts">
+        Lie on your back with knees bent and feet flat on the floor.
+        Tighten your abdominal muscles and push your lower back into the floor.
+        Hold for a few seconds and then relax. Repeat.</string>
+
+    <string name="bridge_exercise">
+    Lie on your back with knees bent and feet flat on the floor.
+    Lift your hips toward the ceiling, creating a straight line from your shoulders to your knees.
+    Hold for a few seconds and then lower your hips. Repeat.
+</string>
+
+    <string name="cat_cow_stretch">
+    Start on your hands and knees in a tabletop position.
+    Arch your back (like a cat) and then gently curve it downward (like a cow).
+    Repeat the movement in a flowing manner.
+</string>
+
+    <string name="childs_pose">
+    Kneel on the floor with your toes together and knees apart.
+    Sit back on your heels and reach your arms forward, lowering your chest towards the floor.
+</string>
+
+    <string name="knee_to_chest_stretch">
+    Lie on your back with knees bent.
+    Bring one knee up towards your chest, holding it with both hands.
+    Hold for 15-30 seconds and switch legs.
+</string>
+
+    <string name="partial_crunches">
+    Lie on your back with knees bent and feet flat on the floor.
+    Cross your arms over your chest and lift your shoulders off the floor.
+</string>
+
+    <string name="bird_dog_exercise">
+    Start on your hands and knees in a tabletop position.
+    Extend your right arm forward and left leg back, keeping your back straight.
+    Hold for a few seconds and then switch sides.
+</string>
+
+    <string name="swimming_exercise">
+    Lie face down on the floor with arms and legs extended.
+    Lift your right arm and left leg simultaneously, then switch sides in a swimming motion.
+</string>
+
+    <!-- Neck Stretch Heading -->
+    <string name="neck_stretch_heading">1. Neck Stretches</string>
+    <string name="neck_stretch_description">Gently tilt your head to one side, bringing your ear towards your shoulder. Hold for 15–30 seconds and repeat on the other side. Slowly rotate your head in a circular motion, both clockwise and counterclockwise. Do this for 15–30 seconds in each direction.</string>
+
+    <!-- Neck Rotation Heading -->
+    <string name="neck_rotation_heading">2. Neck Rotation</string>
+    <string name="neck_rotation_description">Turn your head to one side, bringing your chin over your shoulder. Hold for 15–30 seconds and repeat on the other side.</string>
+
+    <!-- Neck Flexion and Extension Heading -->
+    <string name="neck_flexion_extension_heading">3. Neck Flexion and Extension</string>
+    <string name="neck_flexion_extension_description">Gently tilt your head backward, looking up at the ceiling. Hold for 15–30 seconds. Return to the neutral position and then gently tilt your head forward, bringing your chin towards your chest. Hold for 15–30 seconds.</string>
+
+    <!-- Shoulder Rolls Heading -->
+    <string name="shoulder_rolls_heading">4. Shoulder Rolls</string>
+    <string name="shoulder_rolls_description">Roll your shoulders in a circular motion, both forward and backward, to release tension in the neck and upper back.</string>
+
+    <!-- Chin Tucks Heading -->
+    <string name="chin_tucks_heading">5. Chin Tucks</string>
+    <string name="chin_tucks_description">Sit or stand with a straight spine. Tuck your chin towards your chest, creating a double chin. Hold for a few seconds and then release. Repeat several times.</string>
+
+    <!-- Shoulder Blade Squeezes Heading -->
+    <string name="shoulder_blade_squeezes_heading">6. Shoulder Blade Squeezes</string>
+    <string name="shoulder_blade_squeezes_description">Sit or stand with a straight spine. Squeeze your shoulder blades together, as if you are trying to hold a pencil between them. Hold for a few seconds and then relax. Repeat several times.</string>
+
+    <!-- Shoulder Pain Strings -->
+
+    <!-- Pendulum Stretch Heading -->
+    <string name="shoulder_heading1">1. Pendulum Stretch</string>
+    <string name="shoulder_description1">While standing, lean forward and support your non-affected arm on a table or chair. Allow your affected arm to hang down and gently swing it in a circular motion.</string>
+
+    <!-- Wall Crawl Heading -->
+    <string name="shoulder_heading2">2. Wall Crawl</string>
+    <string name="shoulder_description2">Stand facing a wall and place your fingertips on the wall at chest height. Walk your fingers up the wall, reaching as high as you comfortably can. Slowly walk your fingers back down.</string>
+
+    <!-- Shoulder Blade Squeeze Heading -->
+    <string name="shoulder_heading3">3. Shoulder Blade Squeeze</string>
+    <string name="shoulder_description3">Sit or stand with your back straight. Squeeze your shoulder blades together, holding for a few seconds. Repeat several times.</string>
+
+    <!-- External Rotation with a Band Heading -->
+    <string name="shoulder_heading4">4. External Rotation with a Band</string>
+    <string name="shoulder_description4">Attach a resistance band to a doorknob at waist height. Hold the other end with your affected arm. Keep your elbow at a 90-degree angle and rotate your arm outward against the resistance.</string>
+
+    <!-- Scapular Retraction Heading -->
+    <string name="shoulder_heading5">5. Scapular Retraction</string>
+    <string name="shoulder_description5">Sit or stand with your arms at your sides. Squeeze your shoulder blades together without shrugging your shoulders. Hold for a few seconds and release.</string>
+
+    <!-- Heading 1: Wrist Flexor Stretch -->
+    <string name="wrist_heading1">1. Wrist Flexor Stretch:</string>
+    <string name="wrist_description1">Extend your arm in front of you with the palm facing down. Gently use your opposite hand to pull back on your fingers, stretching the wrist extensors. Hold for 15–30 seconds and repeat on the other hand.</string>
+
+    <!-- Heading 2: Wrist Extensor Stretch -->
+    <string name="wrist_heading2">2. Wrist Extensor Stretch:</string>
+    <string name="wrist_description2">Extend your arm with the palm facing up. Gently pull back on your fingers with your opposite hand to stretch the wrist flexors. Hold for 15–30 seconds and repeat on the other hand.</string>
+
+    <!-- Heading 3: Wrist Circles -->
+    <string name="wrist_heading3">3. Wrist Circles:</string>
+    <string name="wrist_description3">Rotate your wrists in circular motions, both clockwise and counterclockwise. Perform 10–15 circles in each direction.</string>
+
+    <!-- Heading 4: Wrist Tendon Gliding -->
+    <string name="wrist_heading4">4. Wrist Tendon Gliding:</string>
+    <string name="wrist_description4">Start with your hand in a neutral position. Flex your fingers down and then extend them while keeping the wrist in a neutral position. Repeat this gliding motion for 10–15 repetitions.</string>
+
+    <!-- Heading 5: Wrist Eccentric Exercise with a Light Weight -->
+    <string name="wrist_heading5">5. Wrist Eccentric Exercise with a Light Weight:</string>
+    <string name="wrist_description5">Hold a light weight (like a small dumbbell or a water bottle) in your hand with the palm facing down. Slowly lower the weight by extending your wrist. Perform 10–15 repetitions.</string>
+
+    <!-- Forearm Pronation and Supination -->
+    <string name="elbow_heading3">3. Forearm Pronation and Supination</string>
+    <string name="elbow_description3">Hold a light dumbbell or a similar object in your hand, with your elbow bent at 90 degrees. Rotate your forearm, turning your palm up (supination) and then down (pronation). Perform 2–3 sets of 15–20 repetitions on each arm.</string>
+
+    <!-- Wrist Eccentric Exercises -->
+    <string name="elbow_heading4">4. Wrist Eccentric Exercises</string>
+    <string name="elbow_description4">Use a light resistance band or a small weight (1–2 pounds). Sit or stand with your forearm supported, wrist hanging off the edge. Slowly lower the wrist down and then lift it back up using the unaffected hand. Perform 2–3 sets of 15–20 repetitions.</string>
+
+    <!-- Isometric Wrist Contractions -->
+    <string name="elbow_heading5">5. Isometric Wrist Contractions</string>
+    <string name="elbow_description5">Make a fist and place a rolled–up towel or a small ball in your hand. Squeeze the fist for 5–10 seconds, then release. Repeat for 2–3 sets of 10–15 repetitions.</string>
+
+    <!-- Triceps Stretch -->
+    <string name="elbow_heading6">6. Triceps Stretch</string>
+    <string name="elbow_description6">Reach your hand down your back, palm facing your spine. Use your opposite hand to gently push on your bent elbow. Hold for 15–30 seconds and repeat on both arms.</string>
+
+    <!-- Hip Flexor Stretch -->
+    <string name="groin_heading1">1. Hip Flexor Stretch</string>
+    <string name="groin_description1">Kneel on your right knee with your left foot in front, forming a 90–degree angle. Lean forward, keeping your back straight, until you feel a stretch in the front of your right hip. Hold for 15–30 seconds and switch sides.</string>
+
+    <!-- Seated Butterfly Stretch -->
+    <string name="groin_heading2">2. Seated Butterfly Stretch</string>
+    <string name="groin_description2">Sit on the floor, bringing the soles of your feet together. Hold your feet with your hands and gently press your knees toward the floor.</string>
+
+    <!-- Inner Thigh Lifts -->
+    <string name="groin_heading3">3. Inner Thigh Lifts</string>
+    <string name="groin_description3">Lie on your side with your bottom leg bent and your top leg straight. Lift your top leg a few inches off the ground and hold for a few seconds. Lower the leg back down. Repeat on both sides.</string>
+
+    <!-- Clamshell Exercise -->
+    <string name="groin_heading4">4. Clamshell Exercise</string>
+    <string name="groin_description4">Lie on your side with your knees bent and stack on top of each other. Keep your feet together and lift your top knee while keeping your feet in contact. Lower the knee back down. Repeat on both sides.</string>
+
+    <!-- Pelvic Tilts -->
+    <string name="groin_heading5">5. Pelvic Tilts</string>
+    <string name="groin_description5">Lie on your back with your knees bent and feet flat on the floor. Tighten your abdominal muscles and press your lower back into the floor. Hold for a few seconds and then release.</string>
+
+    <!-- Bridge Exercise -->
+    <string name="groin_heading6">6. Bridge Exercise</string>
+    <string name="groin_description6">Lie on your back with knees bent and feet flat on the floor. Lift your hips toward the ceiling, creating a straight line from shoulders to knees. Hold for a few seconds and then lower your hips back down.</string>
+
+    <!-- Piriformis Stretch -->
+    <string name="hip_heading2">2. Piriformis Stretch</string>
+    <string name="hip_description2">Sit on the floor with one leg bent and the other crossed over, placing the foot on the outside of the bent knee. Twist your torso toward the bent knee while supporting your weight with your hands. Hold for 15–30 seconds and switch sides.</string>
+
+    <!-- Hip Abduction Exercise -->
+    <string name="hip_heading3">3. Hip Abduction Exercise</string>
+    <string name="hip_description3">Lie on your side with the bottom leg straight and the top leg bent at a 90–degree angle. Lift the bottom leg toward the ceiling, keeping it straight. Lower it back down without letting it touch the other leg. Do 2 sets of 10–15 repetitions on each side.</string>
+
+    <!-- Leg Raises -->
+    <string name="hip_heading5">5. Leg Raises</string>
+    <string name="hip_description5">Lie on your back and lift one leg at a time, keeping it straight. Lower the leg back down without letting it touch the ground. Do 2 sets of 10–15 repetitions on each leg.</string>
+
+
+    <!-- Quad Sets -->
+    <string name="knee_heading1">1. Quad Sets</string>
+    <string name="knee_description1">Sit on the floor with your legs extended. Tighten the muscles on the top of your thigh and push the back of your knee down into the floor. Hold for a few seconds, then relax. Repeat several times.</string>
+
+    <!-- Straight Leg Raises -->
+    <string name="knee_heading2">2. Straight Leg Raises</string>
+    <string name="knee_description2">Sit or lie down with your back straight. Lift your leg straight in front of you without bending the knee. Hold for a few seconds and then lower it slowly. Repeat with the other leg.</string>
+
+    <!-- Hamstring Curls -->
+    <string name="knee_heading3">3. Hamstring Curls</string>
+    <string name="knee_description3">Stand with your feet hip-width apart. Bend one knee and bring your heel toward your buttocks. Hold for a few seconds, then slowly lower your leg. Repeat with the other leg.</string>
+
+    <!-- Wall Squats -->
+    <string name="knee_heading4">4. Wall Squats</string>
+    <string name="knee_description4">Stand with your back against a wall. Slide down into a squatting position, keeping your back against the wall. Hold for 10–20 seconds and then slowly slide back up.</string>
+
+    <!-- Calf Raises -->
+    <string name="knee_heading5">5. Calf Raises</string>
+    <string name="knee_description5">Stand with your feet hip-width apart. Rise up on your toes, lifting your heels off the ground. Hold for a moment, then lower your heels back down.</string>
+
+    <!-- Partial Squats -->
+    <string name="knee_heading6">6. Partial Squats</string>
+    <string name="knee_description6">Stand with your feet shoulder-width apart. Perform a partial squat by bending your knees slightly. Make sure your knees don not go past your toes. Hold for a few seconds and then straighten up.</string>
+
+    <!-- Step-Ups -->
+    <string name="knee_heading7">7. Step-Ups</string>
+    <string name="knee_description7">Use a sturdy step or platform. Step up with one foot and then bring the other foot up. Step back down with the leading foot. Repeat, alternating the leading foot.</string>
+
+</resources>
+
